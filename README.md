@@ -1,4 +1,4 @@
-![ClassicPress Integrity Checker banner](images/banner-1544x500.png)
+![ClassicPress Integrity Checker banner](images/banner-1544x500.jpg)
 
 # ClassicPress Integrity Checker
 Plugin for [ClassicPress](https://www.classicpress.net/).
